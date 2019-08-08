@@ -1,4 +1,4 @@
-FROM hardkoded/puppeteer-sharp/base:1.0
+FROM hardkoded/puppeteer-sharp-base:1.0
 
 # Add user so we don't need --no-sandbox.
 # same layer as npm install to keep re-chowned files from using up several hundred MBs more space    
