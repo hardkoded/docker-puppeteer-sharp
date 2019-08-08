@@ -1,4 +1,5 @@
-# docker-puppeteer-sharp-base
+# Repository for the puppeteer-sharp-base Docker image
+
 Base docker images for puppeteer-sharp
 
 ## Example
